@@ -16,4 +16,4 @@
 
 ## Contributors
 
-> Add a list of contributors
+- [Freya B](https://github.com/freyabyrne)
