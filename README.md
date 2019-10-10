@@ -29,3 +29,4 @@ Chrome extension tab
 ## Contributors
 
 - [Freya B](https://github.com/freyabyrne)
+- [Whyte Peter](https://github.com/whytepeter)
