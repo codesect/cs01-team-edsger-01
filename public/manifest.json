@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "short_name": "React App",
+  "name": "CodeSect Tab",
+  "author": "Freya B",
+  "version": "0.0.1",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
